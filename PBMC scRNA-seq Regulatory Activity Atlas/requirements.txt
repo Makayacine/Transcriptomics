@@ -1,0 +1,14 @@
+Core analysis libraries
+scanpy
+decoupler
+
+Data manipulation
+pandas
+anndata
+
+Visualization
+matplotlib
+seaborn
+
+Environment
+jupyter
