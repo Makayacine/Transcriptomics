@@ -1,7 +1,3 @@
-Of course. Here are the contents for a comprehensive `README.md` file that documents the entire project.
-
------
-
 # End-to-End Bulk RNA-Seq Pipeline for CRC
 
 This repository contains a complete, reproducible bioinformatics pipeline to process raw RNA-seq data from a colorectal cancer (CRC) project, quantify transcript expression, and perform downstream exploratory analysis using PySpark.
