@@ -1,0 +1,17 @@
+# local cruft
+.DS_Store
+desktop.ini
+.ipynb_checkpoints/
+_cache/
+Datasets/
+
+# huge data / archives (use Releases or Zenodo instead)
+PRJNA413956/quants/
+PRJNA413956/PRJNA413956_quants_v1.tar.gz
+PRJNA413956/PRJNA413956_quants_v1.tar.gz.sha256
+PRJNA413956_quants_v1.tar.gz
+PRJNA413956_quants_v1.tar.gz.sha256
+
+# reference FASTA and indexes (re-downloadable)
+PRJNA413956/gencode*.fa
+PRJNA413956/gencode*.fa.*
