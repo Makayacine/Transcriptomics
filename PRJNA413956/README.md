@@ -27,7 +27,6 @@ PRJNA413956/
 ├── gencode.v46.transcripts.fa
 ├── gencode.v46.transcripts.fa.fxi   # pyfastx index (generated)
 ├── quants/                  # Salmon results: one subfolder per SRR*_quant (not tracked by git LFS by default)
-└── _cache/                  # Local scratch (safe to delete; not required for publication)
 
 ````
 
