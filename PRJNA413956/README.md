@@ -1,4 +1,3 @@
-Here’s a tightened, professional `README.md` you can drop in as-is (no Docker mentions):
 
 ```markdown
 # End-to-End Bulk RNA-Seq Pipeline (CRC · PRJNA413956)
