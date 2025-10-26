@@ -1,5 +1,5 @@
 
-```markdown
+
 # End-to-End Bulk RNA-Seq Pipeline (CRC · PRJNA413956)
 
 A reproducible workflow to process raw RNA-seq reads from the colorectal cancer (CRC) study **PRJNA413956** and perform downstream exploratory analysis with **PySpark**.  
