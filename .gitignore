@@ -17,3 +17,4 @@ PRJNA413956_quants_v1.tar.gz.sha256
 # reference FASTA & indexes (re-downloadable)
 PRJNA413956/gencode*.fa
 PRJNA413956/gencode*.fa.*
+PRJNA413956/outputs/

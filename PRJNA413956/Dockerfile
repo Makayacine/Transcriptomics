@@ -8,7 +8,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 RUN pip install --no-cache-dir \
     jupyterlab==4.* \
     pyspark==3.5.5 py4j==0.10.9.7 \
-    pyfastx pandas matplotlib seaborn==0.13.2
+    pyfastx pandas matplotlib seaborn==0.13.2  scipy statsmodels
 
 # Create non-root user
 RUN useradd -ms /bin/bash app
