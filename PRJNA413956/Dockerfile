@@ -15,7 +15,7 @@ RUN useradd -ms /bin/bash app
 USER app
 WORKDIR /workspace
 ENV HOME=/home/app PYSPARK_PYTHON=python SPARK_LOCAL_IP=127.0.0.1
-EXPOSE 8888
+EXPOSE 8889
 
 CMD ["bash","-lc","jupyter lab --ip=0.0.0.0 --port=8889 --ServerApp.token='' --ServerApp.password='' --no-browser"]
 
